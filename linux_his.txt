@@ -1,0 +1,50 @@
+  504  ls
+  505  cd ..
+  506  ls
+  507  cd folderdir
+  508  ls
+  509  git pull origin feature/third
+  510  ls
+  511  git checkout -b feature/forth
+  512  git switch feature/forth
+  513  ls
+  514  touch forth.py
+  515  echo "fourth file is here!" forth.py
+  516  cat forth.py
+  517  echo "fourth file is here!" > forth.py
+  518  cat forth.py
+  519  ls
+  520  git add forth.py
+  521  git commit -m "this is fourth file"
+  522  git push origin feature/forth
+  523  git pull
+  524  ls
+  525  history > linux_history.txt
+  526  ls
+  527  cat linux_history.txt
+  528  git branch
+  529  git checkout -b feature/linux_history
+  530  git branck
+  531  git branch
+  532  git pull
+  533  git pull origin main
+  534  git push origin feature/linux_history
+  535  ls
+  536  git add .
+  537  git branch
+  538  git add .
+  539  git commit
+  540  git commit -m "linux history"
+  541  git push origin feature/linux_history
+  542  git add linux_history.txt
+  543  git commit -m "linux"
+  544  ls
+  545  git push 
+  546  git push origin feature/linux_history
+  547  git add linux_history.txt
+  548  git commit --amend -m "linux"
+  549  git push origin feature/linux_history --force
+  550  ls
+  551  rm linux_history.txt
+  552  ls
+  553  history 50 > linux_his.txt
