@@ -1,0 +1,51 @@
+Hi its chesla here
+  257  git push -u origin main
+  258  clear'
+  259  clear
+  260  ps
+  261  ps -l
+  262  cd ..
+  263  ls
+  264  cd media
+  265  ls
+  266  cd folderdir
+  267  ls
+  268  ls -al
+  269  mkdir famboy
+  270  ld
+  271  ls
+  272  git branch
+  273  git add .
+  274  git commit -m "new folder"
+  275  git push origin feature/linux_history
+  276  ls
+  277  vim linux_his.txt
+  278  cat linux_his.txt
+  279  git push origin feature/linux_history
+  280  git checkout main
+  281  git pull
+  282  git branch
+  283  git checkout -b feature/new
+  284  cd famboy
+  285  pwd
+  286  ls -al
+  287  echo "Hi its chesla here" > filename.txt
+  288  cat filename.txt
+  289  ls
+  290  cd ..
+  291  ls
+  292  mv famboy needhelp
+  293  ls
+  294  cd needhelp
+  295  ls
+  296  cp filename.txt rataolie
+  297  ls
+  298  cat rataolie
+  299  ls
+  300  history 50
+  301  clear
+  302  ls
+  303  chmod
+  304  chown
+  305  ps chmod
+  306  history 50 >> rataolie
