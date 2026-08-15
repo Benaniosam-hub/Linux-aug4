@@ -1,0 +1,100 @@
+  233  history | nl -ba > command_history_$(date +Y%m%d).txt
+  234  history -a
+  235  cp ~/.bash_history full_history_backup.txt
+  236  ls
+  237  pwd
+  238  git init
+  239  git config --global init.defaultBranch main
+  240  git init
+  241  git add command_history.txt
+  242  git add *.txt
+  243  git commit -m "Initial commit: Command history from $(date)"
+  244  git remote add origin https://github.com/Benaniosam-hub/Linux-command-history.git
+  245  git push -u origin main
+  246  git push -u origin master
+  247  git config --global user.name "Benaniosam-hub"
+  248  git config --global user.password "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"
+  249  git branch -m main
+  250  git add .
+  251  git commit -m "initial commit"
+  252  git remote -v
+  253  git push -u origin main
+  254  ssh-keygen -t rsa -b 4096 -C "benaniosam008@gmail.com"
+  255  cat /root/.ssh/id_rsa.pub
+  256  git remote set-url origin git@github.com:Benaniosam-hub/Linux-command-history.git
+  257  git push -u origin main
+  258  clear'
+  259  clear
+  260  ps
+  261  ps -l
+  262  cd ..
+  263  ls
+  264  cd media
+  265  ls
+  266  cd folderdir
+  267  ls
+  268  ls -al
+  269  mkdir famboy
+  270  ld
+  271  ls
+  272  git branch
+  273  git add .
+  274  git commit -m "new folder"
+  275  git push origin feature/linux_history
+  276  ls
+  277  vim linux_his.txt
+  278  cat linux_his.txt
+  279  git push origin feature/linux_history
+  280  git checkout main
+  281  git pull
+  282  git branch
+  283  git checkout -b feature/new
+  284  cd famboy
+  285  pwd
+  286  ls -al
+  287  echo "Hi its chesla here" > filename.txt
+  288  cat filename.txt
+  289  ls
+  290  cd ..
+  291  ls
+  292  mv famboy needhelp
+  293  ls
+  294  cd needhelp
+  295  ls
+  296  cp filename.txt rataolie
+  297  ls
+  298  cat rataolie
+  299  ls
+  300  history 50
+  301  clear
+  302  ls
+  303  chmod
+  304  chown
+  305  ps chmod
+  306  history 50 >> rataolie
+  307  ls
+  308  cat rataolie
+  309  git add .
+  310  cd ..
+  311  git branch
+  312  cd folderdir
+  313  git branch
+  314  git add .
+  315  git commit -m "new folder with history"
+  316  git push origin feature/new
+  317  ls
+  318  touch newfilehere.txt
+  319  history 50 > newfilehere.txt
+  320  l
+  321  c newfilehere.txt
+  322  cat newfilehere.txt
+  323  ls
+  324  ls -a
+  325  ls -al
+  326  git branch
+  327  git add .
+  328  git commit -m "newfilein"
+  329  git push origin feature/new
+  330  ls
+  331  touch aug.txt
+  332  history 100 > aug.txt
