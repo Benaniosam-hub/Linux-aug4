@@ -1,0 +1,50 @@
+  270  ld
+  271  ls
+  272  git branch
+  273  git add .
+  274  git commit -m "new folder"
+  275  git push origin feature/linux_history
+  276  ls
+  277  vim linux_his.txt
+  278  cat linux_his.txt
+  279  git push origin feature/linux_history
+  280  git checkout main
+  281  git pull
+  282  git branch
+  283  git checkout -b feature/new
+  284  cd famboy
+  285  pwd
+  286  ls -al
+  287  echo "Hi its chesla here" > filename.txt
+  288  cat filename.txt
+  289  ls
+  290  cd ..
+  291  ls
+  292  mv famboy needhelp
+  293  ls
+  294  cd needhelp
+  295  ls
+  296  cp filename.txt rataolie
+  297  ls
+  298  cat rataolie
+  299  ls
+  300  history 50
+  301  clear
+  302  ls
+  303  chmod
+  304  chown
+  305  ps chmod
+  306  history 50 >> rataolie
+  307  ls
+  308  cat rataolie
+  309  git add .
+  310  cd ..
+  311  git branch
+  312  cd folderdir
+  313  git branch
+  314  git add .
+  315  git commit -m "new folder with history"
+  316  git push origin feature/new
+  317  ls
+  318  touch newfilehere.txt
+  319  history 50 > newfilehere.txt
